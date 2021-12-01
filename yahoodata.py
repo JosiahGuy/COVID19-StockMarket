@@ -1,7 +1,7 @@
 import pandas_datareader.data as pdr #Added to bring in Yahoo Finance Data
 import datetime as dt #Added to bring in Yahoo Finance Data
 
-def yahooData(ticker, start_year, start_month, start_day, end_year, end_month, end_day):
+def pullStockData(ticker, start_year, start_month, start_day, end_year, end_month, end_day):
     """
     ticker = string: ticker of desired stock
     start_year = int: starting year for range
