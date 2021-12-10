@@ -22,3 +22,6 @@ This Python script is brought in in order to bring in data for a given ticker. T
 
 ## images folder
 This folder contains images of all the results (including the lag Jupyter Notebook) after models are created for each index.
+
+## XLV_Implementation_Lag.ipynb
+After identifying the present of data lag, this notebook was used to explore a shorter time frame of data. This way, we can drill down to visually see the lag happening. This was done with the stock index for the Health Care Select Sector SPDR Fund, ticker XLV.
