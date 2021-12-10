@@ -1,4 +1,4 @@
-# COVID19-StockMarket Project
+# COVID19-StockMarket Project: "COVID-19 and its Impact on Different Sectors of the Economy Utilizing Stock Market Data"
 DS340W Project. Writing a paper to link COVID-19 events with changes in the stock market. Goal is to compare 5 different indexes based on 5 different industries. Then, based on accuracy of predictions, we'd then be able to quantify the impact of COVID-19 on different areas of the market. We looked at the following indexes:
 - XLE: Energy Select Sector SPDR Fund
 - XLF: Financial Select Sector SPDR Fund
@@ -8,6 +8,7 @@ DS340W Project. Writing a paper to link COVID-19 events with changes in the stoc
 
 
 Link to Parent Paper: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00430-0
+
 Link to our Paper: https://docs.google.com/document/d/18d7qYq9roBATgZy4zkRg8aqqN_gCHLqL/edit?usp=sharing&ouid=109867115804583300351&rtpof=true&sd=true
 
 ## ***_Implementation.ipynb
