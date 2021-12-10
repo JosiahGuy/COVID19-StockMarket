@@ -5,6 +5,8 @@ DS340W Project. Writing a paper to link COVID-19 events with changes in the stoc
 - XLI: Industrial Select Sector SPDR Fund
 - XLK: Technology Select Sector SPDR Fund
 - XLV: Health Care Select Sector SPDR Fund
+
+
 Link to Paper: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00430-0
 
 ## ***_Implementation.ipynb
